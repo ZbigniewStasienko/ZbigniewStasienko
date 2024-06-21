@@ -7,6 +7,15 @@ Apart from my technical interests, I have always loved basketball, which I playe
 
 ---
 
+I participated in the following projects:
+
+- [cinema-seat-reservation-system](https://github.com/ZZPO-Projekt-Rezerwacje-w-kinie/Cinema-Seat-Reservation-Management)
+
+- [ride-mate-finder](https://github.com/ProjektZespolowyPWR/ride-mate-finder)
+
+
+---
+
 - I’m familiar with following technologies:
 
 <div align="center">
